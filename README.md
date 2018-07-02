@@ -1,2 +1,2 @@
-# golang_webserver
+# Golang Webserver
 simple http static webserver
